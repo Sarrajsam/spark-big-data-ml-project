@@ -6,6 +6,7 @@ This project was developed as part of my coursework at the University of Dundee.
 
 The project includes multiple tasks such as data processing, machine learning, and pattern discovery.
 
+This project simulates a real-world big data pipeline using Spark and machine learning algorithms.
 ---
 
 ## 🚀 Key Features
@@ -77,7 +78,10 @@ Groups Iris data into clusters based on similarity.
 ```bash
 sbt run
 ```
-
+Make sure the data files are placed inside the data/ folder:
+- Bakery.csv
+- iris.csv
+- input.txt
 ---
 
 ## 💡 What I Learned
